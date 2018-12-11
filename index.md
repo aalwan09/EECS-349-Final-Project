@@ -1,10 +1,20 @@
-## EECS 349 Final Project
+# Abstract
 
-### Northwestern University, Fall 2018
+## Classifying Breast Cancer Using Supervised Machine Learning
+
+### EECS 349 Northwestern University, Fall 2018
 
 ### Team Members
-Alexander Alwan
-David MacCumber
+Alexander Alwan and David MacCumber
+
+### Contact Us
+alexanderalwan2019@u.northwestern.edu
+
+davidmaccumber2021@u.northwestern.edu
+
+### Introduction
+
+
 
 
 
