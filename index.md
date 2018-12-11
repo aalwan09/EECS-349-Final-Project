@@ -18,7 +18,7 @@ Our task for this project will be to develop predictive models for cancer patien
 
 ```markdown
 
-![Breast Cancer Ribbon](/ribbon.png)
+![Breast Cancer Ribbon](https://www.sacofitness.com/wp-content/uploads/2017/10/banner.png)
 
 ```
 
