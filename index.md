@@ -1,8 +1,24 @@
+## EECS 349 Final Project
+
+### Northwestern University, Fall 2018
+
+### Team Members
+Alexander Alwan
+David MacCumber
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aalwan09/eecs349_finalproj/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
