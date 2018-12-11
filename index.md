@@ -18,7 +18,7 @@ Our task for this project will be to develop predictive models for cancer patien
 
 ```markdown
 
-![Image](src)
+![Image](ribbon.png)
 
 ```
 
