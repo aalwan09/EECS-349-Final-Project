@@ -41,6 +41,9 @@ Our task for this project will be to develop predictive models for cancer patien
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Syntax highlighted code block
 
 # Header 1
