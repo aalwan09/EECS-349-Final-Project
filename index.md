@@ -16,6 +16,9 @@ The number and size of medical databases are increasing rapidly but most of thes
 Our task for this project will be to develop predictive models for cancer patients.  Specifically, we wish to classify a breast cancer patient’s tumor as benign or malignant.  We will utilize a set of nine attributes to predict these classifications.  
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 ```markdown
 <img src="/images/ribbon.png" alt="">
 ![Breast Cancer Ribbon](https://www.sacofitness.com/wp-content/uploads/2017/10/banner.png)
