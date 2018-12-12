@@ -1,4 +1,4 @@
-# Classifying Breast Cancer Using Supervised Machine Learning
+# Breast Cancer Prognosis Using Supervised Machine Learning
 
 ## EECS 349 Northwestern University, Fall 2018
 
