@@ -10,21 +10,25 @@ alexanderalwan2019@u.northwestern.edu
 
 davidmaccumber2021@u.northwestern.edu
 
+![Breast Cancer Ribbon](https://www.sacofitness.com/wp-content/uploads/2017/10/banner.png)
+
 ## Introduction
 The number and size of medical databases are increasing rapidly but most of these data have yet to been probed for valuable and unseen information.  As these databases become more complex and rich with patient information, it becomes more difficult for medical practitioners to make accurate diagnoses. Models created through machine learning of these big data sets give a solution.  There is a dire need for machine learning in the medical field now more than ever.  Ultimately, ML can assist medical practitioners in providing a list of potential diagnoses and a recommended course of treatment much more quickly than current methods.  
 
 Our task for this project will be to develop predictive models for cancer patients.  Specifically, we wish to classify a breast cancer patient’s tumor as benign or malignant.  We will utilize a set of nine attributes to predict these classifications.  
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+The link to our final report can be found [here][Final Report](https://docs.google.com/document/d/1hB5TiP_qrpGs4ZGKCB7zV3M-geFUmaiaO93cZD5dvwE/edit):
+
+
 
 
 ```markdown
 <img src="/images/ribbon.png" alt="">
-![Breast Cancer Ribbon](https://www.sacofitness.com/wp-content/uploads/2017/10/banner.png)
+
 ![Ribbon](/images/ribbon.png)
 
-[Final Report](https://docs.google.com/document/d/1hB5TiP_qrpGs4ZGKCB7zV3M-geFUmaiaO93cZD5dvwE/edit)
+
 
 ```
 
