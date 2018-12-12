@@ -18,7 +18,8 @@ Our task for this project will be to develop predictive models for cancer patien
 
 ```markdown
 
-![Breast Cancer Ribbon](/ribbon.png))
+![Breast Cancer Ribbon]({{https://github.com/aalwan09/EECS-349-Final-Project}}/ribbon.png)
+![useful image]({{ site.url }}/assets/image.png)
 
 [Final Report](https://docs.google.com/document/d/1hB5TiP_qrpGs4ZGKCB7zV3M-geFUmaiaO93cZD5dvwE/edit)
 
