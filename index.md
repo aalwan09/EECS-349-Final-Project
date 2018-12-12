@@ -18,7 +18,10 @@ Breast cancer is the second most common cancer worldwide, and it is the second l
 Our task is to develop predictive models for cancer prognosis. Specifically, we wish to predict the likelihood that a breast cancer patient’s tumor is benign or malignant under various supervised machine learning algorithms in the Waikato Environment for Knowledge Analysis (Weka). As such, we will make use of a datatset from an existing data repository geared towards machine learning tasks. It was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg. The data was collected over a two year period from 1989-1991 and contains 699 instances (examples) with 10 attributes and two classifications (maligant and benign cancerous cells). 
 
 ## Machine Learning Tasks 
-We implemented various machine learning tasks for this project.  Specifically, we utilized the ZeroR algorithm, logistic regression, naive bayes classifiers, decision trees (with and without pruning), k-nearest neighbors, and multilayer perceptrons.  Additionally, for each of these classification techniques, we implemented 10-fold cross validation to assess the model's accuracies.  Our results for each of the models (in the form of model accuracies) can be viewed in the bar graph below. 
+We implemented various machine learning tasks for this project.  Specifically, we utilized the ZeroR algorithm, logistic regression, naive bayes classifiers, decision trees (with and without pruning), k-nearest neighbors, and multilayer perceptrons.  Additionally, for each of these classification techniques, we implemented 10-fold cross validation to assess the model's accuracies.  
+
+
+Our solutions performed quite well on this dataset, as each of our models had at least a 92% classification accuracy (with the exception of the ZeroR algorithm which we used as a benchmark to assess all of our other models).  Our specific results for each of the models (in the form of model accuracies) can be viewed in the bar graph below. The model that performed the best was logistic regression with an accuracy of 96.57%.  
   
 
 ![Model Accuracies](/images/model_accuracies.png)
