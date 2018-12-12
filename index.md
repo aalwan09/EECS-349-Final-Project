@@ -20,6 +20,8 @@ Our task for this project will be to develop predictive models for cancer patien
 
 ![Breast Cancer Ribbon](/ribbon.png))
 
+[Final Report](https://docs.google.com/document/d/1hB5TiP_qrpGs4ZGKCB7zV3M-geFUmaiaO93cZD5dvwE/edit)
+
 ```
 
 
