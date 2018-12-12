@@ -10,7 +10,7 @@ alexanderalwan2019@u.northwestern.edu
 
 davidmaccumber2021@u.northwestern.edu
 
-![Breast Cancer Ribbon](https://www.sacofitness.com/wp-content/uploads/2017/10/banner.png)
+![Breast Cancer Ribbon]<img src="https://www.sacofitness.com/wp-content/uploads/2017/10/banner.png" width=20%>
 
 ## Introduction
 Breast cancer is the second most common cancer worldwide, and it is the second leading cause of women’s death from cancer. Improving cancer prognosis has been a problem of primary concern towards improving clinical management and treatment decision making for cancer patients. Additionally, the number and size of medical databases are increasing rapidly and most of these data have yet to been probed for valuable and unseen information. As these databases become more complex and rich with patient information, medical practitioners face greater difficulty in making accurate diagnoses and prognoses. 
