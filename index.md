@@ -11,8 +11,7 @@ alexanderalwan2019@u.northwestern.edu
 davidmaccumber2021@u.northwestern.edu
 
 
-<img src="https://www.sacofitness.com/wp-content/uploads/2017/10/banner.png" class="img-responsive" alt="ribbon" width=20%> </div>
-
+![Pink Ribbon](ribboncopy.png)
 
 
 ## Introduction
