@@ -13,60 +13,20 @@ davidmaccumber2021@u.northwestern.edu
 ![Breast Cancer Ribbon](https://www.sacofitness.com/wp-content/uploads/2017/10/banner.png)
 
 ## Introduction
-The number and size of medical databases are increasing rapidly but most of these data have yet to been probed for valuable and unseen information.  As these databases become more complex and rich with patient information, it becomes more difficult for medical practitioners to make accurate diagnoses. Models created through machine learning of these big data sets give a solution.  There is a dire need for machine learning in the medical field now more than ever.  Ultimately, ML can assist medical practitioners in providing a list of potential diagnoses and a recommended course of treatment much more quickly than current methods.  
+Breast cancer is the second most common cancer worldwide and the second leading cause of women’s death from cancer. Improving cancer prognosis has been a problem of primary interest towards better clinical management and treatment decision making for cancer patients. The number and size of medical databases are increasing rapidly as well and most of these data have yet to been probed for valuable and unseen information. As these databases become more complex and rich with patient information, medical practitioners face greater difficulty in making accurate diagnoses and prognoses. 
 
-Our task for this project will be to develop predictive models for cancer patients.  Specifically, we wish to classify a breast cancer patient’s tumor as benign or malignant.  We will utilize a set of nine attributes to predict these classifications.  
+Our task is to develop predictive models for cancer prognosis. Specifically, we wish to predict the likelihood that a breast cancer patient’s tumor is benign or malignant under various supervised machine learning algorithms in the Waikato Environment for Knowledge Analysis (Weka). As such, we will make use of a datatset from an existing data repository geared towards machine learning tasks. It was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg. The data was collected over a two year period from 1989-1991 and contains 699 instances (examples) with 10 attributes and two classifications (maligant and benign cancerous cells). 
 
+## Machine Learning Tasks 
+We implemented various machine learning tasks for this project.  Specifically, we utilized the ZeroR algorithm, logistic regression, naive bayes classifiers, decision trees (with and without pruning), k-nearest neighbors, and multilayer perceptrons.  Additionally, for each of these classification techniques, we implemented 10-fold cross validation to assess the model's accuracies.  Our results for each of the models (in the form of model accuracies) can be viewed in the bar graph below. 
+  
 
-The link to our final report can be found [here][Final Report](https://docs.google.com/document/d/1hB5TiP_qrpGs4ZGKCB7zV3M-geFUmaiaO93cZD5dvwE/edit):
-
-
-
-
-```markdown
-<img src="/images/ribbon.png" alt="">
-
-![Ribbon](/images/ribbon.png)
+![Model Accuracies](/images/model_accuracies.png)
 
 
-
-```
+The link to our final report can be found here: [Final Report](https://docs.google.com/document/d/1hB5TiP_qrpGs4ZGKCB7zV3M-geFUmaiaO93cZD5dvwE/edit):
 
 
 
 
-
-
-
-
-## Welcome to GitHub Pages
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
