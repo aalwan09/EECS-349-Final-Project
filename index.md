@@ -27,7 +27,7 @@ Our solutions performed quite well on this dataset, as each of our models had at
 ![Model Accuracies](/images/model_accuracies.png)
 
 
-The link to our final report can be found here: [Final Report](https://docs.google.com/document/d/1hB5TiP_qrpGs4ZGKCB7zV3M-geFUmaiaO93cZD5dvwE/edit):
+The link to our final report can be found here: [Final Report](https://docs.google.com/document/d/1hB5TiP_qrpGs4ZGKCB7zV3M-geFUmaiaO93cZD5dvwE/edit)
 
 
 
